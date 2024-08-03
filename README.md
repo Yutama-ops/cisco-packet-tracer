@@ -21,3 +21,7 @@ learned how to navigate use the application in logic and physical mode,
 See how devices are connected.
 
 Mostlly learned how to use the software.
+
+### Day 3
+
+Completed cisco packet tracer exam
